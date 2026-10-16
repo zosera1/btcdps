@@ -32,7 +32,7 @@ A fake Bitcoin mining farm simulator built with C# and Windows Forms. Dark UI, s
 
 ## Build from source
 
-git clone https://github.com/your-username/btcdeepseek.git
+git clone https://github.com/zosera1/btcdeepseek.git
 cd btcdeepseek
 start btcdeepseek.sln
 
